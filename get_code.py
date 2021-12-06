@@ -4,8 +4,8 @@ import json
 
 import requests
 
-country = 'CN'
-lang = 'CN'
+country = 'PK'
+lang = 'EN'
 class_list = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T']
 url = 'http://ftatax.mofcom.gov.cn/wmsw/crossDomain/getCodeByFather'
 res = {}

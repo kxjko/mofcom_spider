@@ -1,10 +1,13 @@
 import csv
+import re
 
 import scrapy
 from scrapy import Selector
 
 from mofcom_spider.items import FtaSpiderItem
 
+blank_pattern = re.compile(r' *\t+')
+fta_fields = ['code', 'ec', 'ic', 'ct', 'mfn', 'gt', 'plan_text', 'plan_table', 'ga', 'sa']
 
 class FtaSpider(scrapy.Spider):
     name = 'fta'
@@ -31,9 +34,12 @@ class FtaSpider(scrapy.Spider):
             res = ''
             for text in label.xpath('text()').extract():
                 res += text.strip()
-            return res.strip()
+            return res.replace('\n', ' ').replace('\r', ' ')
 
         item = FtaSpiderItem()
+        # 默认值
+        for field in fta_fields:
+            item.setdefault(field, '')
         selector = Selector(response)
         # 原产地&目的地
         countries = selector.xpath('//section[@class="tol serachF1"]/p')
@@ -42,10 +48,23 @@ class FtaSpider(scrapy.Spider):
         # 编码
         code = selector.xpath('//section[@class="tol S_result"]//i')
         item['code'] = get_text(code[-1])[:-1]
-        # 协定税率&普通税率
+        # 协定税率&普通税率&（MFN）最惠国税率
         taxes = selector.xpath('//ul[@class="word1 pl40p pt10"]/li')
-        item['ct'] = get_text(taxes[0].xpath('span'))
-        item['gt'] = get_text(taxes[1])
+        for li in taxes:
+            span = li.xpath('span')
+            if span is not None and len(span) > 0:
+                text = blank_pattern.sub('', get_text(span))
+            else:
+                text = get_text(li)
+            label = get_text(li.xpath('label'))
+            if '协定税率：' == label:
+                item['ct'] = text
+            elif '（MFN）最惠国税率：' == label:
+                item['mfn'] = text
+            elif '普通税率：' == label:
+                item['gt'] = text
+        # item['ct'] = get_text(taxes[0].xpath('span'))
+        # item['gt'] = get_text(taxes[1])
         # 降税安排
         plan = selector.xpath('//div[@class="fl left1 tol"]')
         item['plan_text'] = get_text(plan)

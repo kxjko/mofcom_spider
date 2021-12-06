@@ -17,6 +17,7 @@ class FtaSpiderItem(scrapy.Item):
     ec = scrapy.Field()
     ic = scrapy.Field()
     ct = scrapy.Field()
+    mfn = scrapy.Field()
     gt = scrapy.Field()
     plan_text = scrapy.Field()
     plan_table = scrapy.Field()
