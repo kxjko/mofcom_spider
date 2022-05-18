@@ -57,11 +57,10 @@ def get_tariff():
                 # 勾选Reporters
                 logger.info('开始设置要查询的Reporters，POST:{}', select_url)
                 # params.pop('ctl00$ContentView$OkButton')
-                params = {}
-                params['__VIEWSTATE'] = viewstate
-                params['__VIEWSTATEGENERATOR'] = viewstate_generator
-                params['ctl00$ScriptManager1'] = 'tl00$ScriptManager1|ctl00$ContentView$ButtonReportersSave'
-                params['ctl00$ContentView$ButtonReportersSave'] = 'Save'
+                params = {'__VIEWSTATE': viewstate,
+                          '__VIEWSTATEGENERATOR': viewstate_generator,
+                          'ctl00$ScriptManager1': 'tl00$ScriptManager1|ctl00$ContentView$ButtonReportersSave',
+                          'ctl00$ContentView$ButtonReportersSave': 'Save'}
                 reporter = next(reporter for reporter in reporters if reporter['name'] == nation)
                 reporter_names = [reporter['name']]
                 params[reporter['id']] = 'on'
