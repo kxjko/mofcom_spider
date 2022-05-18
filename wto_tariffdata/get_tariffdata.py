@@ -54,6 +54,25 @@ def get_tariff():
                 logger.info('获取cookies成功！{}', cookies)
                 viewstate, viewstate_generator = get_viewstate(res.text)
 
+                # 勾选Reporters
+                logger.info('开始设置要查询的Reporters，POST:{}', select_url)
+                # params.pop('ctl00$ContentView$OkButton')
+                params = {}
+                params['__VIEWSTATE'] = viewstate
+                params['__VIEWSTATEGENERATOR'] = viewstate_generator
+                params['ctl00$ScriptManager1'] = 'tl00$ScriptManager1|ctl00$ContentView$ButtonReportersSave'
+                params['ctl00$ContentView$ButtonReportersSave'] = 'Save'
+                reporter = next(reporter for reporter in reporters if reporter['name'] == nation)
+                reporter_names = [reporter['name']]
+                params[reporter['id']] = 'on'
+                for child_reporter in reporter['children']:
+                    params[child_reporter['id']] = 'on'
+                    reporter_names.append(child_reporter['name'])
+                # 保存Reporters勾选
+                res = retry_request('post', select_url, data=params, cookies=cookies)
+                logger.info('设置要查询的Reporters成功！勾选的Reporters为：{}', reporter_names)
+                viewstate, viewstate_generator = get_viewstate(res.text)
+
                 # 选择年份
                 logger.info('开始设置要查询的年份，POST:{}', select_url)
                 params = {'__VIEWSTATE': viewstate,
@@ -70,26 +89,8 @@ def get_tariff():
                 logger.info('设置要查询的年份成功！设置的年份为{}', year)
                 viewstate, viewstate_generator = get_viewstate(res.text)
 
-                # 勾选Reporters
-                logger.info('开始设置要查询的Reporters，POST:{}', select_url)
-                params.pop('ctl00$ContentView$OkButton')
-                params['__VIEWSTATE'] = viewstate
-                params['__VIEWSTATEGENERATOR'] = viewstate_generator
-                params['ctl00$ScriptManager1'] = 'tl00$ScriptManager1|ctl00$ContentView$ButtonReportersSave'
-                params['ctl00$ContentView$ButtonReportersSave'] = 'Save'
-                reporter = next(reporter for reporter in reporters if reporter['name'] == nation)
-                reporter_names = [reporter['name']]
-                params[reporter['id']] = 'on'
-                for child_reporter in reporter['children']:
-                    params[child_reporter['id']] = 'on'
-                    reporter_names.append(child_reporter['name'])
-                # 保存Reporters勾选
-                res = retry_request('post', select_url, data=params, cookies=cookies)
-                logger.info('设置要查询的Reporters成功！勾选的Reporters为：{}', reporter_names)
-                viewstate, viewstate_generator = get_viewstate(res.text)
-
                 # 为了避免获取的数据超过数量限制，根据Products分成多个部分获取
-                params.pop('ctl00$ContentView$ButtonReportersSave')
+                # params.pop('ctl00$ContentView$ButtonReportersSave')
                 params['ctl00$ScriptManager1'] = 'ctl00$ScriptManager1|ctl00$ContentView$ButtonProductsSave'
                 params['ctl00$ContentView$ButtonProductsSave'] = 'Save'
                 product_pre_part = int(len(products) / part_count)
