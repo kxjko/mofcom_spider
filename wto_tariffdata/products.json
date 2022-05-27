@@ -1,0 +1,386 @@
+[
+    {
+        "id": "ctl00_ContentView_pn0CheckBox",
+        "name": "01 - LIVE ANIMALS"
+    },
+    {
+        "id": "ctl00_ContentView_pn1CheckBox",
+        "name": "02 - MEAT AND EDIBLE MEAT OFFAL"
+    },
+    {
+        "id": "ctl00_ContentView_pn2CheckBox",
+        "name": "03 - FISH AND CRUSTACEANS, MOLLUSCS AND OTHER AQUATIC INVERTEBRATES"
+    },
+    {
+        "id": "ctl00_ContentView_pn3CheckBox",
+        "name": "04 - DAIRY PRODUCE; BIRDS' EGGS; NATURAL HONEY; EDIBLE PRODUCTS OF ANIMAL ORIGIN, NOT ELSEWHERE SPECIFIED OR INCLUDED"
+    },
+    {
+        "id": "ctl00_ContentView_pn4CheckBox",
+        "name": "05 - PRODUCTS OF ANIMAL ORIGIN, NOT ELSEWHERE SPECIFIED OR INCLUDED"
+    },
+    {
+        "id": "ctl00_ContentView_pn5CheckBox",
+        "name": "06 - LIVE TREES AND OTHER PLANTS; BULBS, ROOTS AND THE LIKE; CUT FLOWERS AND ORNAMENTAL FOLIAGE"
+    },
+    {
+        "id": "ctl00_ContentView_pn6CheckBox",
+        "name": "07 - EDIBLE VEGETABLES AND CERTAIN ROOTS AND TUBERS"
+    },
+    {
+        "id": "ctl00_ContentView_pn7CheckBox",
+        "name": "08 - EDIBLE FRUIT AND NUTS; PEEL OF CITRUS FRUIT OR MELONS"
+    },
+    {
+        "id": "ctl00_ContentView_pn8CheckBox",
+        "name": "09 - Coffee, tea, mate and spices"
+    },
+    {
+        "id": "ctl00_ContentView_pn9CheckBox",
+        "name": "10 - CEREALS"
+    },
+    {
+        "id": "ctl00_ContentView_pn10CheckBox",
+        "name": "11 - PRODUCTS OF THE MILLING INDUSTRY; MALT; STARCHES; INULIN; WHEAT GLUTEN"
+    },
+    {
+        "id": "ctl00_ContentView_pn11CheckBox",
+        "name": "12 - OIL SEEDS AND OLEAGINOUS FRUITS; MISCELLANEOUS GRAINS, SEEDS AND FRUIT; INDUSTRIAL OR MEDICINAL PLANTS; STRAW AND FODDER"
+    },
+    {
+        "id": "ctl00_ContentView_pn12CheckBox",
+        "name": "13 - LAC; GUMS, RESINS AND OTHER VEGETABLE SAPS AND EXTRACTS"
+    },
+    {
+        "id": "ctl00_ContentView_pn13CheckBox",
+        "name": "14 - VEGETABLE PLAITING MATERIALS; VEGETABLE PRODUCTS NOT ELSEWHERE SPECIFIED OR INCLUDED"
+    },
+    {
+        "id": "ctl00_ContentView_pn14CheckBox",
+        "name": "15 - ANIMAL OR VEGETABLE FATS AND OILS AND THEIR CLEAVAGE PRODUCTS; PREPARED EDIBLE FATS; ANIMAL OR VEGETABLE WAXES"
+    },
+    {
+        "id": "ctl00_ContentView_pn15CheckBox",
+        "name": "16 - PREPARATIONS OF MEAT, OF FISH OR OF CRUSTACEANS, MOLLUSCS OR OTHER AQUATIC INVERTEBRATES"
+    },
+    {
+        "id": "ctl00_ContentView_pn16CheckBox",
+        "name": "17 - SUGARS AND SUGAR CONFECTIONERY"
+    },
+    {
+        "id": "ctl00_ContentView_pn17CheckBox",
+        "name": "18 - COCOA AND COCOA PREPARATIONS"
+    },
+    {
+        "id": "ctl00_ContentView_pn18CheckBox",
+        "name": "19 - PREPARATIONS OF CEREALS, FLOUR, STARCH OR MILK; PASTRYCOOKS' PRODUCTS"
+    },
+    {
+        "id": "ctl00_ContentView_pn19CheckBox",
+        "name": "20 - PREPARATIONS OF VEGETABLES, FRUIT, NUTS OR OTHER PARTS OF PLANTS"
+    },
+    {
+        "id": "ctl00_ContentView_pn20CheckBox",
+        "name": "21 - MISCELLANEOUS EDIBLE PREPARATIONS"
+    },
+    {
+        "id": "ctl00_ContentView_pn21CheckBox",
+        "name": "22 - BEVERAGES, SPIRITS AND VINEGAR"
+    },
+    {
+        "id": "ctl00_ContentView_pn22CheckBox",
+        "name": "23 - RESIDUES AND WASTE FROM THE FOOD INDUSTRIES; PREPARED ANIMAL FODDER"
+    },
+    {
+        "id": "ctl00_ContentView_pn23CheckBox",
+        "name": "24 - TOBACCO AND MANUFACTURED TOBACCO SUBSTITUTES"
+    },
+    {
+        "id": "ctl00_ContentView_pn24CheckBox",
+        "name": "25 - SALT; SULPHUR; EARTHS AND STONE; PLASTERING MATERIALS, LIME AND CEMENT"
+    },
+    {
+        "id": "ctl00_ContentView_pn25CheckBox",
+        "name": "26 - ORES, SLAG AND ASH"
+    },
+    {
+        "id": "ctl00_ContentView_pn26CheckBox",
+        "name": "27 - MINERAL FUELS, MINERAL OILS AND PRODUCTS OF THEIR DISTILLATION; BITUMINOUS SUBSTANCES; MINERAL WAXES"
+    },
+    {
+        "id": "ctl00_ContentView_pn27CheckBox",
+        "name": "28 - Inorganic chemicals; organic or inorganic compounds of precious metals, of rare- earth metals, of radioactive elements or of isotopes"
+    },
+    {
+        "id": "ctl00_ContentView_pn28CheckBox",
+        "name": "29 - ORGANIC CHEMICALS"
+    },
+    {
+        "id": "ctl00_ContentView_pn29CheckBox",
+        "name": "30 - PHARMACEUTICAL PRODUCTS"
+    },
+    {
+        "id": "ctl00_ContentView_pn30CheckBox",
+        "name": "31 - FERTILISERS"
+    },
+    {
+        "id": "ctl00_ContentView_pn31CheckBox",
+        "name": "32 - TANNING OR DYEING EXTRACTS; TANNINS AND THEIR DERIVATIVES; DYES, PIGMENTS AND OTHER COLOURING MATTER; PAINTS AND VARNISHES; PUTTY AND OTHER MASTICS; INKS"
+    },
+    {
+        "id": "ctl00_ContentView_pn32CheckBox",
+        "name": "33 - ESSENTIAL OILS AND RESINOIDS; PERFUMERY, COSMETIC OR TOILET PREPARATIONS"
+    },
+    {
+        "id": "ctl00_ContentView_pn33CheckBox",
+        "name": "34 - Soap, organic surface-active agents, washing preparations, lubricating preparations, artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, \"dental waxes\" and dental preparations with a basis of plaster"
+    },
+    {
+        "id": "ctl00_ContentView_pn34CheckBox",
+        "name": "35 - ALBUMINOIDAL SUBSTANCES; MODIFIED STARCHES; GLUES; ENZYMES"
+    },
+    {
+        "id": "ctl00_ContentView_pn35CheckBox",
+        "name": "36 - EXPLOSIVES; PYROTECHNIC PRODUCTS; MATCHES; PYROPHORIC ALLOYS; CERTAIN COMBUSTIBLE PREPARATIONS"
+    },
+    {
+        "id": "ctl00_ContentView_pn36CheckBox",
+        "name": "37 - PHOTOGRAPHIC OR CINEMATOGRAPHIC GOODS"
+    },
+    {
+        "id": "ctl00_ContentView_pn37CheckBox",
+        "name": "38 - MISCELLANEOUS CHEMICAL PRODUCTS"
+    },
+    {
+        "id": "ctl00_ContentView_pn38CheckBox",
+        "name": "39 - PLASTICS AND ARTICLES THEREOF"
+    },
+    {
+        "id": "ctl00_ContentView_pn39CheckBox",
+        "name": "40 - RUBBER AND ARTICLES THEREOF"
+    },
+    {
+        "id": "ctl00_ContentView_pn40CheckBox",
+        "name": "41 - RAW HIDES AND SKINS (OTHER THAN FURSKINS) AND LEATHER"
+    },
+    {
+        "id": "ctl00_ContentView_pn41CheckBox",
+        "name": "42 - Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk- worm gut)"
+    },
+    {
+        "id": "ctl00_ContentView_pn42CheckBox",
+        "name": "43 - FURSKINS AND ARTIFICIAL FUR; MANUFACTURES THEREOF"
+    },
+    {
+        "id": "ctl00_ContentView_pn43CheckBox",
+        "name": "44 - WOOD AND ARTICLES OF WOOD; WOOD CHARCOAL"
+    },
+    {
+        "id": "ctl00_ContentView_pn44CheckBox",
+        "name": "45 - CORK AND ARTICLES OF CORK"
+    },
+    {
+        "id": "ctl00_ContentView_pn45CheckBox",
+        "name": "46 - MANUFACTURES OF STRAW, OF ESPARTO OR OF OTHER PLAITING MATERIALS; BASKETWARE AND WICKERWORK"
+    },
+    {
+        "id": "ctl00_ContentView_pn46CheckBox",
+        "name": "47 - Pulp of wood or of other fibrous cellulosic material; recovered (waste and scrap) paper and paperboard"
+    },
+    {
+        "id": "ctl00_ContentView_pn47CheckBox",
+        "name": "48 - PAPER AND PAPERBOARD; ARTICLES OF PAPER PULP, OF PAPER OR OF PAPERBOARD"
+    },
+    {
+        "id": "ctl00_ContentView_pn48CheckBox",
+        "name": "49 - PRINTED BOOKS, NEWSPAPERS, PICTURES AND OTHER PRODUCTS OF THE PRINTING INDUSTRY; MANUSCRIPTS, TYPESCRIPTS AND PLANS"
+    },
+    {
+        "id": "ctl00_ContentView_pn49CheckBox",
+        "name": "50 - SILK"
+    },
+    {
+        "id": "ctl00_ContentView_pn50CheckBox",
+        "name": "51 - WOOL, FINE OR COARSE ANIMAL HAIR; HORSEHAIR YARN AND WOVEN FABRIC"
+    },
+    {
+        "id": "ctl00_ContentView_pn51CheckBox",
+        "name": "52 - COTTON"
+    },
+    {
+        "id": "ctl00_ContentView_pn52CheckBox",
+        "name": "53 - OTHER VEGETABLE TEXTILE FIBRES; PAPER YARN AND WOVEN FABRICS OF PAPER YARN"
+    },
+    {
+        "id": "ctl00_ContentView_pn53CheckBox",
+        "name": "54 - MAN-MADE FILAMENTS; STRIP AND THE LIKE OF MAN-MADE TEXTILE MATERIALS"
+    },
+    {
+        "id": "ctl00_ContentView_pn54CheckBox",
+        "name": "55 - Man- made staple fibres"
+    },
+    {
+        "id": "ctl00_ContentView_pn55CheckBox",
+        "name": "56 - WADDING, FELT AND NONWOVENS; SPECIAL YARNS; TWINE, CORDAGE, ROPES AND CABLES AND ARTICLES THEREOF"
+    },
+    {
+        "id": "ctl00_ContentView_pn56CheckBox",
+        "name": "57 - CARPETS AND OTHER TEXTILE FLOOR COVERINGS"
+    },
+    {
+        "id": "ctl00_ContentView_pn57CheckBox",
+        "name": "58 - SPECIAL WOVEN FABRICS; TUFTED TEXTILE FABRICS; LACE; TAPESTRIES; TRIMMINGS; EMBROIDERY"
+    },
+    {
+        "id": "ctl00_ContentView_pn58CheckBox",
+        "name": "59 - IMPREGNATED, COATED, COVERED OR LAMINATED TEXTILE FABRICS; TEXTILE ARTICLES OF A KIND SUITABLE FOR INDUSTRIAL USE"
+    },
+    {
+        "id": "ctl00_ContentView_pn59CheckBox",
+        "name": "60 - KNITTED OR CROCHETED FABRICS"
+    },
+    {
+        "id": "ctl00_ContentView_pn60CheckBox",
+        "name": "61 - ARTICLES OF APPAREL AND CLOTHING ACCESSORIES, KNITTED OR CROCHETED"
+    },
+    {
+        "id": "ctl00_ContentView_pn61CheckBox",
+        "name": "62 - ARTICLES OF APPAREL AND CLOTHING ACCESSORIES, NOT KNITTED OR CROCHETED"
+    },
+    {
+        "id": "ctl00_ContentView_pn62CheckBox",
+        "name": "63 - Other made up textile articles; sets; worn clothing and worn textile articles; rags"
+    },
+    {
+        "id": "ctl00_ContentView_pn63CheckBox",
+        "name": "64 - FOOTWEAR, GAITERS AND THE LIKE; PARTS OF SUCH ARTICLES"
+    },
+    {
+        "id": "ctl00_ContentView_pn64CheckBox",
+        "name": "65 - HEADGEAR AND PARTS THEREOF"
+    },
+    {
+        "id": "ctl00_ContentView_pn65CheckBox",
+        "name": "66 - Umbrellas, sun umbrellas, walking- sticks, seat- sticks, whips, riding- crops and parts thereof"
+    },
+    {
+        "id": "ctl00_ContentView_pn66CheckBox",
+        "name": "67 - PREPARED FEATHERS AND DOWN AND ARTICLES MADE OF FEATHERS OR OF DOWN; ARTIFICIAL FLOWERS; ARTICLES OF HUMAN HAIR"
+    },
+    {
+        "id": "ctl00_ContentView_pn67CheckBox",
+        "name": "68 - ARTICLES OF STONE, PLASTER, CEMENT, ASBESTOS, MICA OR SIMILAR MATERIALS"
+    },
+    {
+        "id": "ctl00_ContentView_pn68CheckBox",
+        "name": "69 - CERAMIC PRODUCTS"
+    },
+    {
+        "id": "ctl00_ContentView_pn69CheckBox",
+        "name": "70 - GLASS AND GLASSWARE"
+    },
+    {
+        "id": "ctl00_ContentView_pn70CheckBox",
+        "name": "71 - Natural or cultured pearls, precious or semi- precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin"
+    },
+    {
+        "id": "ctl00_ContentView_pn71CheckBox",
+        "name": "72 - IRON AND STEEL"
+    },
+    {
+        "id": "ctl00_ContentView_pn72CheckBox",
+        "name": "73 - ARTICLES OF IRON OR STEEL"
+    },
+    {
+        "id": "ctl00_ContentView_pn73CheckBox",
+        "name": "74 - COPPER AND ARTICLES THEREOF"
+    },
+    {
+        "id": "ctl00_ContentView_pn74CheckBox",
+        "name": "75 - NICKEL AND ARTICLES THEREOF"
+    },
+    {
+        "id": "ctl00_ContentView_pn75CheckBox",
+        "name": "76 - ALUMINIUM AND ARTICLES THEREOF"
+    },
+    {
+        "id": "ctl00_ContentView_pn76CheckBox",
+        "name": "78 - LEAD AND ARTICLES THEREOF"
+    },
+    {
+        "id": "ctl00_ContentView_pn77CheckBox",
+        "name": "79 - ZINC AND ARTICLES THEREOF"
+    },
+    {
+        "id": "ctl00_ContentView_pn78CheckBox",
+        "name": "80 - TIN AND ARTICLES THEREOF"
+    },
+    {
+        "id": "ctl00_ContentView_pn79CheckBox",
+        "name": "81 - OTHER BASE METALS; CERMETS; ARTICLES THEREOF"
+    },
+    {
+        "id": "ctl00_ContentView_pn80CheckBox",
+        "name": "82 - TOOLS, IMPLEMENTS, CUTLERY, SPOONS AND FORKS, OF BASE METAL; PARTS THEREOF OF BASE METAL"
+    },
+    {
+        "id": "ctl00_ContentView_pn81CheckBox",
+        "name": "83 - MISCELLANEOUS ARTICLES OF BASE METAL"
+    },
+    {
+        "id": "ctl00_ContentView_pn82CheckBox",
+        "name": "84 - NUCLEAR REACTORS, BOILERS, MACHINERY AND MECHANICAL APPLIANCES; PARTS THEREOF"
+    },
+    {
+        "id": "ctl00_ContentView_pn83CheckBox",
+        "name": "85 - ELECTRICAL MACHINERY AND EQUIPMENT AND PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS, TELEVISION IMAGE AND SOUND RECORDERS AND REPRODUCERS, AND PARTS AND ACCESSORIES OF SUCH ARTICLES"
+    },
+    {
+        "id": "ctl00_ContentView_pn84CheckBox",
+        "name": "86 - Railway or tramway locomotives, rolling- stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro- mechanical) traffic signalling equipment of all kinds"
+    },
+    {
+        "id": "ctl00_ContentView_pn85CheckBox",
+        "name": "87 - Vehicles other than railway or tramway rolling- stock, and parts and accessories thereof"
+    },
+    {
+        "id": "ctl00_ContentView_pn86CheckBox",
+        "name": "88 - AIRCRAFT, SPACECRAFT, AND PARTS THEREOF"
+    },
+    {
+        "id": "ctl00_ContentView_pn87CheckBox",
+        "name": "89 - SHIPS, BOATS AND FLOATING STRUCTURES"
+    },
+    {
+        "id": "ctl00_ContentView_pn88CheckBox",
+        "name": "90 - OPTICAL, PHOTOGRAPHIC, CINEMATOGRAPHIC, MEASURING, CHECKING, PRECISION, MEDICAL OR SURGICAL INSTRUMENTS AND APPARATUS; PARTS AND ACCESSORIES THEREOF"
+    },
+    {
+        "id": "ctl00_ContentView_pn89CheckBox",
+        "name": "91 - CLOCKS AND WATCHES AND PARTS THEREOF"
+    },
+    {
+        "id": "ctl00_ContentView_pn90CheckBox",
+        "name": "92 - MUSICAL INSTRUMENTS; PARTS AND ACCESSORIES OF SUCH ARTICLES"
+    },
+    {
+        "id": "ctl00_ContentView_pn91CheckBox",
+        "name": "93 - ARMS AND AMMUNITION; PARTS AND ACCESSORIES THEREOF"
+    },
+    {
+        "id": "ctl00_ContentView_pn92CheckBox",
+        "name": "94 - Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated name- plates and the like; prefabricated buildings"
+    },
+    {
+        "id": "ctl00_ContentView_pn93CheckBox",
+        "name": "95 - TOYS, GAMES AND SPORTS REQUISITES; PARTS AND ACCESSORIES THEREOF"
+    },
+    {
+        "id": "ctl00_ContentView_pn94CheckBox",
+        "name": "96 - MISCELLANEOUS MANUFACTURED ARTICLES"
+    },
+    {
+        "id": "ctl00_ContentView_pn95CheckBox",
+        "name": "97 - WORKS OF ART, COLLECTORS' PIECES AND ANTIQUES"
+    }
+]

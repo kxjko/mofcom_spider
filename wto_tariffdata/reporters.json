@@ -1,0 +1,3260 @@
+[
+    {
+        "id": "ctl00_ContentView_rn0CheckBox",
+        "name": "Afghanistan",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn1CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn2CheckBox",
+        "name": "Albania",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn3CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn4CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn5CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn6CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn7CheckBox",
+        "name": "Algeria",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn8CheckBox",
+                "name": "2017 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn9CheckBox",
+                "name": "2016 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn10CheckBox",
+                "name": "2010 (HS07)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn11CheckBox",
+        "name": "Angola",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn12CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn13CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn14CheckBox",
+                "name": "2017 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn15CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn16CheckBox",
+        "name": "Antigua and Barbuda",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn17CheckBox",
+                "name": "2016 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn18CheckBox",
+                "name": "2015 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn19CheckBox",
+                "name": "2014 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn20CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn21CheckBox",
+        "name": "Argentina",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn22CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn23CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn24CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn25CheckBox",
+                "name": "bound tariffs (HS02)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn26CheckBox",
+        "name": "Armenia",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn27CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn28CheckBox",
+                "name": "2016 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn29CheckBox",
+                "name": "2015 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn30CheckBox",
+                "name": "bound tariffs (HS07)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn31CheckBox",
+        "name": "Australia",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn32CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn33CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn34CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn35CheckBox",
+                "name": "bound tariffs (HS07)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn36CheckBox",
+        "name": "Bahamas",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn37CheckBox",
+                "name": "2002 (HS96)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn38CheckBox",
+        "name": "Bahrain, Kingdom of",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn39CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn40CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn41CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn42CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn43CheckBox",
+        "name": "Bangladesh",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn44CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn45CheckBox",
+                "name": "2016 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn46CheckBox",
+                "name": "2013 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn47CheckBox",
+                "name": "bound tariffs (HS07)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn48CheckBox",
+        "name": "Barbados",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn49CheckBox",
+                "name": "2014 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn50CheckBox",
+                "name": "2013 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn51CheckBox",
+                "name": "2012 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn52CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn53CheckBox",
+        "name": "Belarus",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn54CheckBox",
+                "name": "2001 (HS96)"
+            },
+            {
+                "id": "ctl00_ContentView_rn55CheckBox",
+                "name": "2000 (HS96)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn56CheckBox",
+        "name": "Belize",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn57CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn58CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn59CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn60CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn61CheckBox",
+        "name": "Benin",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn62CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn63CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn64CheckBox",
+                "name": "2018 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn65CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn66CheckBox",
+        "name": "Bolivia, Plurinational State of",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn67CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn68CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn69CheckBox",
+                "name": "2017 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn70CheckBox",
+                "name": "bound tariffs (HS07)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn71CheckBox",
+        "name": "Botswana",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn72CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn73CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn74CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn75CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn76CheckBox",
+        "name": "Brazil",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn77CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn78CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn79CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn80CheckBox",
+                "name": "bound tariffs (HS02)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn81CheckBox",
+        "name": "Brunei Darussalam",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn82CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn83CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn84CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn85CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn86CheckBox",
+        "name": "Bulgaria",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn87CheckBox",
+                "name": "2006 (HS02)"
+            },
+            {
+                "id": "ctl00_ContentView_rn88CheckBox",
+                "name": "2005 (HS02)"
+            },
+            {
+                "id": "ctl00_ContentView_rn89CheckBox",
+                "name": "2004 (HS02)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn90CheckBox",
+        "name": "Burkina Faso",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn91CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn92CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn93CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn94CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn95CheckBox",
+        "name": "Burundi",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn96CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn97CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn98CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn99CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn100CheckBox",
+        "name": "Cabo Verde",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn101CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn102CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn103CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn104CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn105CheckBox",
+        "name": "Cambodia",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn106CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn107CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn108CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn109CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn110CheckBox",
+        "name": "Cameroon",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn111CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn112CheckBox",
+                "name": "2014 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn113CheckBox",
+                "name": "2013 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn114CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn115CheckBox",
+        "name": "Canada",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn116CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn117CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn118CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn119CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn120CheckBox",
+        "name": "Central African Republic",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn121CheckBox",
+                "name": "2016 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn122CheckBox",
+                "name": "2015 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn123CheckBox",
+                "name": "2013 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn124CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn125CheckBox",
+        "name": "Chad",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn126CheckBox",
+                "name": "2016 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn127CheckBox",
+                "name": "2015 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn128CheckBox",
+                "name": "2014 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn129CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn130CheckBox",
+        "name": "Chile",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn131CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn132CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn133CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn134CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn135CheckBox",
+        "name": "China",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn136CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn137CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn138CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn139CheckBox",
+                "name": "bound tariffs (HS96)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn140CheckBox",
+        "name": "Colombia",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn141CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn142CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn143CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn144CheckBox",
+                "name": "bound tariffs (HS07)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn145CheckBox",
+        "name": "Comoros",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn146CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn147CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn148CheckBox",
+                "name": "2017 (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn149CheckBox",
+        "name": "Congo",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn150CheckBox",
+                "name": "2014 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn151CheckBox",
+                "name": "2013 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn152CheckBox",
+                "name": "2012 (HS02)"
+            },
+            {
+                "id": "ctl00_ContentView_rn153CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn154CheckBox",
+        "name": "Costa Rica",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn155CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn156CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn157CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn158CheckBox",
+                "name": "bound tariffs (HS07)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn159CheckBox",
+        "name": "C\u00f4te d'Ivoire",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn160CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn161CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn162CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn163CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn164CheckBox",
+        "name": "Croatia",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn165CheckBox",
+                "name": "2013 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn166CheckBox",
+                "name": "2012 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn167CheckBox",
+                "name": "2011 (HS07)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn168CheckBox",
+        "name": "Cuba",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn169CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn170CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn171CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn172CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn173CheckBox",
+        "name": "Cyprus",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn174CheckBox",
+                "name": "2002 (HS02)"
+            },
+            {
+                "id": "ctl00_ContentView_rn175CheckBox",
+                "name": "2001 (HS96)"
+            },
+            {
+                "id": "ctl00_ContentView_rn176CheckBox",
+                "name": "2000 (HS96)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn177CheckBox",
+        "name": "Czech Republic",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn178CheckBox",
+                "name": "2003 (HS02)"
+            },
+            {
+                "id": "ctl00_ContentView_rn179CheckBox",
+                "name": "2002 (HS02)"
+            },
+            {
+                "id": "ctl00_ContentView_rn180CheckBox",
+                "name": "2001 (HS96)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn181CheckBox",
+        "name": "Democratic Republic of the Congo",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn182CheckBox",
+                "name": "2019 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn183CheckBox",
+                "name": "2016 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn184CheckBox",
+                "name": "2015 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn185CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn186CheckBox",
+        "name": "Djibouti",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn187CheckBox",
+                "name": "2014 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn188CheckBox",
+                "name": "2012 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn189CheckBox",
+                "name": "2011 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn190CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn191CheckBox",
+        "name": "Dominica",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn192CheckBox",
+                "name": "2016 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn193CheckBox",
+                "name": "2015 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn194CheckBox",
+                "name": "2014 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn195CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn196CheckBox",
+        "name": "Dominican Republic",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn197CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn198CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn199CheckBox",
+                "name": "2017 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn200CheckBox",
+                "name": "bound tariffs (HS02)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn201CheckBox",
+        "name": "Ecuador",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn202CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn203CheckBox",
+                "name": "2017 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn204CheckBox",
+                "name": "2016 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn205CheckBox",
+                "name": "bound tariffs (HS07)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn206CheckBox",
+        "name": "Egypt",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn207CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn208CheckBox",
+                "name": "2018 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn209CheckBox",
+                "name": "2017 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn210CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn211CheckBox",
+        "name": "El Salvador",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn212CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn213CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn214CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn215CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn216CheckBox",
+        "name": "Estonia",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn217CheckBox",
+                "name": "2003 (HS02)"
+            },
+            {
+                "id": "ctl00_ContentView_rn218CheckBox",
+                "name": "2002 (HS02)"
+            },
+            {
+                "id": "ctl00_ContentView_rn219CheckBox",
+                "name": "2001 (HS96)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn220CheckBox",
+        "name": "Eswatini",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn221CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn222CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn223CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn224CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn225CheckBox",
+        "name": "European Union",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn226CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn227CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn228CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn229CheckBox",
+                "name": "bound tariffs (HS02)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn230CheckBox",
+        "name": "Fiji",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn231CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn232CheckBox",
+                "name": "2017 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn233CheckBox",
+                "name": "2015 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn234CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn235CheckBox",
+        "name": "Gabon",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn236CheckBox",
+                "name": "2019 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn237CheckBox",
+                "name": "2016 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn238CheckBox",
+                "name": "2015 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn239CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn240CheckBox",
+        "name": "The Gambia",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn241CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn242CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn243CheckBox",
+                "name": "2017 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn244CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn245CheckBox",
+        "name": "Georgia",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn246CheckBox",
+                "name": "2020 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn247CheckBox",
+                "name": "2019 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn248CheckBox",
+                "name": "2018 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn249CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn250CheckBox",
+        "name": "Ghana",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn251CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn252CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn253CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn254CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn255CheckBox",
+        "name": "Grenada",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn256CheckBox",
+                "name": "2016 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn257CheckBox",
+                "name": "2015 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn258CheckBox",
+                "name": "2014 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn259CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn260CheckBox",
+        "name": "Guatemala",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn261CheckBox",
+                "name": "2012 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn262CheckBox",
+                "name": "2011 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn263CheckBox",
+                "name": "2010 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn264CheckBox",
+                "name": "bound tariffs (HS07)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn265CheckBox",
+        "name": "Guinea",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn266CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn267CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn268CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn269CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn270CheckBox",
+        "name": "Guinea-Bissau",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn271CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn272CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn273CheckBox",
+                "name": "2017 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn274CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn275CheckBox",
+        "name": "Guyana",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn276CheckBox",
+                "name": "2016 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn277CheckBox",
+                "name": "2015 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn278CheckBox",
+                "name": "2014 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn279CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn280CheckBox",
+        "name": "Haiti",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn281CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn282CheckBox",
+                "name": "2016 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn283CheckBox",
+                "name": "2015 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn284CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn285CheckBox",
+        "name": "Honduras",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn286CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn287CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn288CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn289CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn290CheckBox",
+        "name": "Hong Kong, China",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn291CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn292CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn293CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn294CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn295CheckBox",
+        "name": "Hungary",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn296CheckBox",
+                "name": "2002 (HS02)"
+            },
+            {
+                "id": "ctl00_ContentView_rn297CheckBox",
+                "name": "2001 (HS96)"
+            },
+            {
+                "id": "ctl00_ContentView_rn298CheckBox",
+                "name": "2000 (HS96)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn299CheckBox",
+        "name": "Iceland",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn300CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn301CheckBox",
+                "name": "2017 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn302CheckBox",
+                "name": "2016 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn303CheckBox",
+                "name": "bound tariffs (HS02)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn304CheckBox",
+        "name": "India",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn305CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn306CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn307CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn308CheckBox",
+                "name": "bound tariffs (HS07)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn309CheckBox",
+        "name": "Indonesia",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn310CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn311CheckBox",
+                "name": "2017 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn312CheckBox",
+                "name": "2016 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn313CheckBox",
+                "name": "bound tariffs (HS02)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn314CheckBox",
+        "name": "Israel",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn315CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn316CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn317CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn318CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn319CheckBox",
+        "name": "Jamaica",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn320CheckBox",
+                "name": "2016 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn321CheckBox",
+                "name": "2015 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn322CheckBox",
+                "name": "2014 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn323CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn324CheckBox",
+        "name": "Japan",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn325CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn326CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn327CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn328CheckBox",
+                "name": "bound tariffs (HS02)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn329CheckBox",
+        "name": "Jordan",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn330CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn331CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn332CheckBox",
+                "name": "2017 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn333CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn334CheckBox",
+        "name": "Kazakhstan",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn335CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn336CheckBox",
+                "name": "2017 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn337CheckBox",
+                "name": "2016 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn338CheckBox",
+                "name": "bound tariffs (HS07)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn339CheckBox",
+        "name": "Kenya",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn340CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn341CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn342CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn343CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn344CheckBox",
+        "name": "Korea, Republic of",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn345CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn346CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn347CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn348CheckBox",
+                "name": "bound tariffs (HS07)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn349CheckBox",
+        "name": "Kuwait, the State of",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn350CheckBox",
+                "name": "2016 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn351CheckBox",
+                "name": "2015 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn352CheckBox",
+                "name": "2014 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn353CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn354CheckBox",
+        "name": "Kyrgyz Republic",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn355CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn356CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn357CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn358CheckBox",
+                "name": "bound tariffs (HS07)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn359CheckBox",
+        "name": "Lao People's Democratic Republic",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn360CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn361CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn362CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn363CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn364CheckBox",
+        "name": "Latvia",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn365CheckBox",
+                "name": "2002 (HS02)"
+            },
+            {
+                "id": "ctl00_ContentView_rn366CheckBox",
+                "name": "2001 (HS96)"
+            },
+            {
+                "id": "ctl00_ContentView_rn367CheckBox",
+                "name": "2000 (HS96)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn368CheckBox",
+        "name": "Lesotho",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn369CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn370CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn371CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn372CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn373CheckBox",
+        "name": "Liberia",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn374CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn375CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn376CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn377CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn378CheckBox",
+        "name": "Lithuania",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn379CheckBox",
+                "name": "2002 (HS02)"
+            },
+            {
+                "id": "ctl00_ContentView_rn380CheckBox",
+                "name": "2001 (HS96)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn381CheckBox",
+        "name": "Macao, China",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn382CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn383CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn384CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn385CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn386CheckBox",
+        "name": "Madagascar",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn387CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn388CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn389CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn390CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn391CheckBox",
+        "name": "Malawi",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn392CheckBox",
+                "name": "2017 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn393CheckBox",
+                "name": "2016 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn394CheckBox",
+                "name": "2015 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn395CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn396CheckBox",
+        "name": "Malaysia",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn397CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn398CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn399CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn400CheckBox",
+                "name": "bound tariffs (HS02)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn401CheckBox",
+        "name": "Maldives",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn402CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn403CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn404CheckBox",
+                "name": "2017 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn405CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn406CheckBox",
+        "name": "Mali",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn407CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn408CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn409CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn410CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn411CheckBox",
+        "name": "Malta",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn412CheckBox",
+                "name": "2002 (HS02)"
+            },
+            {
+                "id": "ctl00_ContentView_rn413CheckBox",
+                "name": "2001 (HS96)"
+            },
+            {
+                "id": "ctl00_ContentView_rn414CheckBox",
+                "name": "2000 (HS96)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn415CheckBox",
+        "name": "Mauritania",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn416CheckBox",
+                "name": "2017 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn417CheckBox",
+                "name": "2015 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn418CheckBox",
+                "name": "2014 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn419CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn420CheckBox",
+        "name": "Mauritius",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn421CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn422CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn423CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn424CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn425CheckBox",
+        "name": "Mexico",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn426CheckBox",
+                "name": "2020 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn427CheckBox",
+                "name": "2019 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn428CheckBox",
+                "name": "2018 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn429CheckBox",
+                "name": "bound tariffs (HS07)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn430CheckBox",
+        "name": "Moldova, Republic of",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn431CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn432CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn433CheckBox",
+                "name": "2019 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn434CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn435CheckBox",
+        "name": "Mongolia",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn436CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn437CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn438CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn439CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn440CheckBox",
+        "name": "Montenegro",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn441CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn442CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn443CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn444CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn445CheckBox",
+        "name": "Morocco",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn446CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn447CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn448CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn449CheckBox",
+                "name": "bound tariffs (HS02)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn450CheckBox",
+        "name": "Mozambique",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn451CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn452CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn453CheckBox",
+                "name": "2016 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn454CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn455CheckBox",
+        "name": "Myanmar",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn456CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn457CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn458CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn459CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn460CheckBox",
+        "name": "Namibia",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn461CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn462CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn463CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn464CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn465CheckBox",
+        "name": "Nepal",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn466CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn467CheckBox",
+                "name": "2017 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn468CheckBox",
+                "name": "2016 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn469CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn470CheckBox",
+        "name": "New Zealand",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn471CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn472CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn473CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn474CheckBox",
+                "name": "bound tariffs (HS07)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn475CheckBox",
+        "name": "Nicaragua",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn476CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn477CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn478CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn479CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn480CheckBox",
+        "name": "Niger",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn481CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn482CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn483CheckBox",
+                "name": "2018 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn484CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn485CheckBox",
+        "name": "Nigeria",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn486CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn487CheckBox",
+                "name": "2019 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn488CheckBox",
+                "name": "2018 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn489CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn490CheckBox",
+        "name": "North Macedonia",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn491CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn492CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn493CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn494CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn495CheckBox",
+        "name": "Norway",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn496CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn497CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn498CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn499CheckBox",
+                "name": "bound tariffs (HS07)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn500CheckBox",
+        "name": "Oman",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn501CheckBox",
+                "name": "2017 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn502CheckBox",
+                "name": "2016 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn503CheckBox",
+                "name": "2015 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn504CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn505CheckBox",
+        "name": "Pakistan",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn506CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn507CheckBox",
+                "name": "2017 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn508CheckBox",
+                "name": "2016 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn509CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn510CheckBox",
+        "name": "Panama",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn511CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn512CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn513CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn514CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn515CheckBox",
+        "name": "Papua New Guinea",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn516CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn517CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn518CheckBox",
+                "name": "2017 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn519CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn520CheckBox",
+        "name": "Paraguay",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn521CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn522CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn523CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn524CheckBox",
+                "name": "bound tariffs (HS02)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn525CheckBox",
+        "name": "Peru",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn526CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn527CheckBox",
+                "name": "2017 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn528CheckBox",
+                "name": "2016 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn529CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn530CheckBox",
+        "name": "Philippines",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn531CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn532CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn533CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn534CheckBox",
+                "name": "bound tariffs (HS02)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn535CheckBox",
+        "name": "Poland",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn536CheckBox",
+                "name": "2003 (HS02)"
+            },
+            {
+                "id": "ctl00_ContentView_rn537CheckBox",
+                "name": "2002 (HS02)"
+            },
+            {
+                "id": "ctl00_ContentView_rn538CheckBox",
+                "name": "2001 (HS96)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn539CheckBox",
+        "name": "Qatar",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn540CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn541CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn542CheckBox",
+                "name": "2017 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn543CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn544CheckBox",
+        "name": "Russian Federation",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn545CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn546CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn547CheckBox",
+                "name": "2016 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn548CheckBox",
+                "name": "bound tariffs (HS07)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn549CheckBox",
+        "name": "Rwanda",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn550CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn551CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn552CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn553CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn554CheckBox",
+        "name": "Saint Kitts and Nevis",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn555CheckBox",
+                "name": "2016 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn556CheckBox",
+                "name": "2015 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn557CheckBox",
+                "name": "2014 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn558CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn559CheckBox",
+        "name": "Saint Lucia",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn560CheckBox",
+                "name": "2021 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn561CheckBox",
+                "name": "2020 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn562CheckBox",
+                "name": "2016 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn563CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn564CheckBox",
+        "name": "Saint Vincent and the Grenadines",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn565CheckBox",
+                "name": "2020 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn566CheckBox",
+                "name": "2016 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn567CheckBox",
+                "name": "2015 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn568CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn569CheckBox",
+        "name": "Samoa",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn570CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn571CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn572CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn573CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn574CheckBox",
+        "name": "Saudi Arabia, Kingdom of",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn575CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn576CheckBox",
+                "name": "2018 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn577CheckBox",
+                "name": "2017 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn578CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn579CheckBox",
+        "name": "Senegal",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn580CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn581CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn582CheckBox",
+                "name": "2018 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn583CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn584CheckBox",
+        "name": "Serbia",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn585CheckBox",
+                "name": "2010 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn586CheckBox",
+                "name": "2009 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn587CheckBox",
+                "name": "2005 (HS02)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn588CheckBox",
+        "name": "Seychelles",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn589CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn590CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn591CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn592CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn593CheckBox",
+        "name": "Sierra Leone",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn594CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn595CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn596CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn597CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn598CheckBox",
+        "name": "Singapore",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn599CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn600CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn601CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn602CheckBox",
+                "name": "bound tariffs (HS07)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn603CheckBox",
+        "name": "Slovak Republic",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn604CheckBox",
+                "name": "2003 (HS02)"
+            },
+            {
+                "id": "ctl00_ContentView_rn605CheckBox",
+                "name": "2002 (HS02)"
+            },
+            {
+                "id": "ctl00_ContentView_rn606CheckBox",
+                "name": "2001 (HS96)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn607CheckBox",
+        "name": "Slovenia",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn608CheckBox",
+                "name": "2003 (HS02)"
+            },
+            {
+                "id": "ctl00_ContentView_rn609CheckBox",
+                "name": "2002 (HS02)"
+            },
+            {
+                "id": "ctl00_ContentView_rn610CheckBox",
+                "name": "2001 (HS96)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn611CheckBox",
+        "name": "Solomon Islands",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn612CheckBox",
+                "name": "2016 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn613CheckBox",
+                "name": "2015 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn614CheckBox",
+                "name": "2013 (HS02)"
+            },
+            {
+                "id": "ctl00_ContentView_rn615CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn616CheckBox",
+        "name": "South Africa",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn617CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn618CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn619CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn620CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn621CheckBox",
+        "name": "Sri Lanka",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn622CheckBox",
+                "name": "2017 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn623CheckBox",
+                "name": "2016 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn624CheckBox",
+                "name": "2015 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn625CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn626CheckBox",
+        "name": "Suriname",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn627CheckBox",
+                "name": "2018 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn628CheckBox",
+                "name": "2016 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn629CheckBox",
+                "name": "2015 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn630CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn631CheckBox",
+        "name": "Switzerland",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn632CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn633CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn634CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn635CheckBox",
+                "name": "bound tariffs (HS07)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn636CheckBox",
+        "name": "Chinese Taipei",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn637CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn638CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn639CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn640CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn641CheckBox",
+        "name": "Tajikistan",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn642CheckBox",
+                "name": "2017 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn643CheckBox",
+                "name": "2016 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn644CheckBox",
+                "name": "2015 (HS07)"
+            },
+            {
+                "id": "ctl00_ContentView_rn645CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn646CheckBox",
+        "name": "Tanzania",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn647CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn648CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn649CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn650CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn651CheckBox",
+        "name": "Thailand",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn652CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn653CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn654CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn655CheckBox",
+                "name": "bound tariffs (HS02)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn656CheckBox",
+        "name": "Togo",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn657CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn658CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn659CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn660CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn661CheckBox",
+        "name": "Tonga",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn662CheckBox",
+                "name": "2016 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn663CheckBox",
+                "name": "2015 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn664CheckBox",
+                "name": "2014 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn665CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn666CheckBox",
+        "name": "Trinidad and Tobago",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn667CheckBox",
+                "name": "2021 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn668CheckBox",
+                "name": "2020 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn669CheckBox",
+                "name": "2019 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn670CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn671CheckBox",
+        "name": "Tunisia",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn672CheckBox",
+                "name": "2016 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn673CheckBox",
+                "name": "2015 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn674CheckBox",
+                "name": "2014 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn675CheckBox",
+                "name": "bound tariffs (HS02)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn676CheckBox",
+        "name": "Turkey",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn677CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn678CheckBox",
+                "name": "2016 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn679CheckBox",
+                "name": "2015 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn680CheckBox",
+                "name": "bound tariffs (HS02)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn681CheckBox",
+        "name": "Uganda",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn682CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn683CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn684CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn685CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn686CheckBox",
+        "name": "Ukraine",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn687CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn688CheckBox",
+                "name": "2020 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn689CheckBox",
+                "name": "2019 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn690CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn691CheckBox",
+        "name": "United Arab Emirates",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn692CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn693CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn694CheckBox",
+                "name": "2016 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn695CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn696CheckBox",
+        "name": "United Kingdom",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn697CheckBox",
+                "name": "2021 (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn698CheckBox",
+        "name": "United States of America",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn699CheckBox",
+                "name": "2021 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn700CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn701CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn702CheckBox",
+                "name": "bound tariffs (HS07)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn703CheckBox",
+        "name": "Uruguay",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn704CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn705CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn706CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn707CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn708CheckBox",
+        "name": "Vanuatu",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn709CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn710CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn711CheckBox",
+                "name": "2017 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn712CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn713CheckBox",
+        "name": "Venezuela, Bolivarian Republic of",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn714CheckBox",
+                "name": "2016 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn715CheckBox",
+                "name": "2015 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn716CheckBox",
+                "name": "2014 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn717CheckBox",
+                "name": "bound tariffs (HS96)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn718CheckBox",
+        "name": "Viet Nam",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn719CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn720CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn721CheckBox",
+                "name": "2017 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn722CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn723CheckBox",
+        "name": "Yemen",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn724CheckBox",
+                "name": "2016 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn725CheckBox",
+                "name": "2015 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn726CheckBox",
+                "name": "2009 (HS02)"
+            },
+            {
+                "id": "ctl00_ContentView_rn727CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn728CheckBox",
+        "name": "Zambia",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn729CheckBox",
+                "name": "2016 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn730CheckBox",
+                "name": "2015 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn731CheckBox",
+                "name": "2014 (HS12)"
+            },
+            {
+                "id": "ctl00_ContentView_rn732CheckBox",
+                "name": "bound tariffs (HS17)"
+            }
+        ]
+    },
+    {
+        "id": "ctl00_ContentView_rn733CheckBox",
+        "name": "Zimbabwe",
+        "children": [
+            {
+                "id": "ctl00_ContentView_rn734CheckBox",
+                "name": "2020 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn735CheckBox",
+                "name": "2019 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn736CheckBox",
+                "name": "2018 (HS17)"
+            },
+            {
+                "id": "ctl00_ContentView_rn737CheckBox",
+                "name": "bound tariffs (HS12)"
+            }
+        ]
+    }
+]

@@ -1,3 +1,4 @@
+import json
 from functools import wraps
 from time import sleep
 
@@ -67,5 +68,9 @@ def retry_request(*args, **kwargs):
 if __name__ == '__main__':
     with open('ReportersAndProducts.html', 'r', encoding='utf-8') as f:
         text = f.read()
-        get_products(text)
-        get_reporters(text)
+        products = get_products(text)
+        reporters = get_reporters(text)
+    with open('products.json', 'w', encoding='utf-8') as f:
+        json.dump(products, f, indent=4)
+    with open('reporters.json', 'w', encoding='utf-8') as f:
+        json.dump(reporters, f, indent=4)
