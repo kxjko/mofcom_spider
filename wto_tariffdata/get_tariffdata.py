@@ -1,19 +1,29 @@
 import json
 import os.path
+import sys
+import threading
 import time
 from time import sleep
 
 from bs4 import BeautifulSoup
 from loguru import logger
 
-from wto_tariffdata.utils import retry_request
+from wto_tariffdata.utils import retry_request, get_reporter_id_by_nation
 
-logger.add("log/{time}.log")
+logger.remove()
+logger.add("log/{time}.log", format="<green>{time:YYYY-MM-DD HH:mm:ss.SSS}</green> | <level>{level: <8}</level> | "
+                                    "<blue>{thread.name}</blue>:<cyan>{name}</cyan>:<cyan>{function}</cyan>:<cyan>{"
+                                    "line}</cyan> - <level>{message}</level>")
+logger.add(sys.stdout, colorize=True, format="<green>{time:YYYY-MM-DD HH:mm:ss.SSS}</green> | <level>{level: "
+                                             "<8}</level> | <blue>{thread.name}</blue>:<cyan>{name}</cyan>:<cyan>{"
+                                             "function}</cyan>:<cyan>{line}</cyan> - <level>{message}</level>")
 
 url_prefix = 'http://tariffdata.wto.org/'
 select_url = url_prefix + 'ReportersAndProducts.aspx'
 download_page_url = url_prefix + 'TariffList.aspx'
 download_url = url_prefix + 'DownloadFile.aspx'
+user_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 ' \
+             'Safari/537.36 '
 
 # 要查询的国家
 nations = ['Australia', 'Brunei Darussalam', 'Cambodia', 'Chile', 'China',
@@ -21,7 +31,8 @@ nations = ['Australia', 'Brunei Darussalam', 'Cambodia', 'Chile', 'China',
            'Malaysia', 'Malaysia', 'New Zealand', 'Peru', 'Philippines',
            'Singapore', 'Switzerland', 'Thailand', 'Viet Nam']
 # 要查询的年份
-years = [y for y in range(2021, 1995, -1)]
+# years = [y for y in range(2021, 1995, -1)]
+years = [y for y in range(1996, 2022)]
 # 产品分成的部分的数量
 part_count = 2
 # 文件保存路径
@@ -30,11 +41,17 @@ zip_path = os.path.join(download_path, 'zip')
 xls_path = os.path.join(download_path, 'xls')
 # 记录失败的文件
 failures_file = 'failures.json'
+# 使用的线程数
+threads = 4
 
 with open('products.json', 'r', encoding='utf-8') as f:
     products = json.load(f)
-with open('reporters.json', 'r', encoding='utf-8') as f:
-    reporters = json.load(f)
+
+# with open('reporters.json', 'r', encoding='utf-8') as f:
+#     reporters = json.load(f)
+
+failures = []
+successes = []
 
 
 def get_viewstate(text):
@@ -46,32 +63,15 @@ def get_viewstate(text):
 
 def get_tariff(nation, year, cookies=None, viewstate='', viewstate_generator=''):
     start_time = time.time()
+    headers = {'User-Agent': user_agent}
     logger.info('开始获取{}的{}年的数据', nation, year)
     if not (cookies and viewstate and viewstate_generator):
         # 请求勾选页面
         logger.info('开始获取cookies，GET:{}', select_url)
-        res = retry_request('get', select_url, cookies={})
+        res = retry_request('get', select_url, cookies={}, headers=headers)
         cookies = res.cookies
         logger.info('获取cookies成功！{}', cookies)
         viewstate, viewstate_generator = get_viewstate(res.text)
-
-    # 勾选Reporters
-    logger.info('开始设置要查询的Reporters，POST:{}', select_url)
-    # params.pop('ctl00$ContentView$OkButton')
-    params = {'__VIEWSTATE': viewstate,
-              '__VIEWSTATEGENERATOR': viewstate_generator,
-              'ctl00$ScriptManager1': 'tl00$ScriptManager1|ctl00$ContentView$ButtonReportersSave',
-              'ctl00$ContentView$ButtonReportersSave': 'Save'}
-    reporter = next(reporter for reporter in reporters if reporter['name'] == nation)
-    reporter_names = [reporter['name']]
-    params[reporter['id']] = 'on'
-    for child_reporter in reporter['children']:
-        params[child_reporter['id']] = 'on'
-        reporter_names.append(child_reporter['name'])
-    # 保存Reporters勾选
-    res = retry_request('post', select_url, data=params, cookies=cookies)
-    logger.info('设置要查询的Reporters成功！勾选的Reporters为：{}', reporter_names)
-    viewstate, viewstate_generator = get_viewstate(res.text)
 
     # 选择年份
     logger.info('开始设置要查询的年份，POST:{}', select_url)
@@ -85,12 +85,28 @@ def get_tariff(nation, year, cookies=None, viewstate='', viewstate_generator='')
               'ctl00$ContentView$CheckBoxCTS': 'on'  # 勾选Include bound tariffs
               }
     # 保存筛选器
-    res = retry_request('post', select_url, data=params, cookies=cookies)
+    res = retry_request('post', select_url, data=params, cookies=cookies, headers=headers)
     logger.info('设置要查询的年份成功！设置的年份为{}', year)
     viewstate, viewstate_generator = get_viewstate(res.text)
 
+    # 勾选Reporters
+    logger.info('开始设置要查询的Reporters，POST:{}', select_url)
+    # params.pop('ctl00$ContentView$OkButton')
+    params = {'__VIEWSTATE': viewstate,
+              '__VIEWSTATEGENERATOR': viewstate_generator,
+              'ctl00$ScriptManager1': 'tl00$ScriptManager1|ctl00$ContentView$ButtonReportersSave',
+              'ctl00$ContentView$ButtonReportersSave': 'Save'}
+    reporter_ids = get_reporter_id_by_nation(res.text, nation)
+    for reporter in reporter_ids:
+        params[reporter] = 'on'
+
+    # 保存Reporters勾选
+    res = retry_request('post', select_url, data=params, cookies=cookies, headers=headers)
+    logger.info('设置要查询的Reporters成功！勾选的Reporters为：{}', reporter_ids)
+    viewstate, viewstate_generator = get_viewstate(res.text)
+
     # 为了避免获取的数据超过数量限制，根据Products分成多个部分获取
-    # params.pop('ctl00$ContentView$ButtonReportersSave')
+
     params['ctl00$ScriptManager1'] = 'ctl00$ScriptManager1|ctl00$ContentView$ButtonProductsSave'
     params['ctl00$ContentView$ButtonProductsSave'] = 'Save'
     product_pre_part = int(len(products) / part_count)
@@ -111,14 +127,14 @@ def get_tariff(nation, year, cookies=None, viewstate='', viewstate_generator='')
         for i in range(start, end):
             new_params[products[i]['id']] = 'on'
         # 保存勾选Products勾选
-        res = retry_request('post', select_url, data=new_params, cookies=cookies)
+        res = retry_request('post', select_url, data=new_params, cookies=cookies, headers=headers)
         logger.info('设置要勾选的Products成功，勾选的范围为({})-----({})', products[start]['name'],
                     products[end - 1]['name'])
         viewstate, viewstate_generator = get_viewstate(res.text)
 
         # 进入下载页面
         logger.info('开始进入下载页面， GET:{}', download_page_url)
-        res = retry_request('get', download_page_url, cookies=cookies)
+        res = retry_request('get', download_page_url, cookies=cookies, headers=headers)
         logger.info('进入下载页面成功！')
         soup = BeautifulSoup(res.text, 'html.parser')
 
@@ -130,14 +146,14 @@ def get_tariff(nation, year, cookies=None, viewstate='', viewstate_generator='')
                 '__VIEWSTATEGENERATOR': soup.find('input', id='__VIEWSTATEGENERATOR')['value'],
                 '__PREVIOUSPAGE': soup.find('input', id='__PREVIOUSPAGE')['value'],
                 '__EVENTVALIDATION': soup.find('input', id='__EVENTVALIDATION')['value']}
-        retry_request('post', download_page_url, cookies=cookies, data=data)
+        retry_request('post', download_page_url, cookies=cookies, data=data, headers=headers)
         logger.info('生成文件成功！')
 
         # 下载文件
         logger.info('开始下载文件，GET:{}', download_url)
         filename = nation + '_' + str(year) + '_' + str(part) + '.zip'
         filename = os.path.join(zip_path, filename)
-        res = retry_request('get', download_url, cookies=cookies)
+        res = retry_request('get', download_url, cookies=cookies, headers=headers)
         with open(filename, "wb") as code:
             code.write(res.content)
         logger.info('文件下载成功！文件已保存至：{}', filename)
@@ -145,13 +161,10 @@ def get_tariff(nation, year, cookies=None, viewstate='', viewstate_generator='')
     logger.info('获取{}的{}年数据成功，用时{:.3f}s', nation, year, time.time() - start_time)
 
 
-def get_all_tariff():
-    failures = []
-    successes = []
-    start = time.time()
+def get_tariffs(nations, years):
+    logger.info('开始获取{}的{}数据', nations, years)
     for nation in nations:
         nation_start_time = time.time()
-        logger.info('开始获取{}的数据', nation)
         for year in years:
             try:
                 get_tariff(nation, year)
@@ -160,7 +173,24 @@ def get_all_tariff():
                 failures.append({'nation': nation, 'year': year})
 
             successes.append({'nation': nation, 'year': year})
-        logger.info('获取{}的数据成功，用时{:.3f}s', nation, time.time() - nation_start_time)
+        logger.info('获取{}的{}数，用时{:.3f}s', nation, years, time.time() - nation_start_time)
+
+
+def get_all_tariff():
+    start = time.time()
+    # 使用多线程获取数据
+    if threads > len(years):
+        raise RuntimeError('暂不支持线程数大于要查询的年份的数量')
+    years_per_thread = int(len(years) / threads)
+    thread_list = []
+    for i in range(threads):
+        thread_years = years[years_per_thread * i: -1 if i == threads - 1 else years_per_thread * (i + 1)]
+        thread = threading.Thread(target=get_tariffs, args=(nations, thread_years,))
+        thread_list.append(thread)
+        thread.start()
+        sleep(1)
+    for thread in thread_list:
+        thread.join()
     logger.info('获取数据结束，成功{}次，失败{}次，用时{:.3f}s，成功的数据为{}，失败的数据为{}', len(successes), len(failures), time.time() - start,
                 successes, failures)
 

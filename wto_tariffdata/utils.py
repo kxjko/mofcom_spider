@@ -1,5 +1,4 @@
 import json
-from functools import wraps
 from time import sleep
 
 import requests
@@ -30,6 +29,30 @@ def get_reporters(text):
                 reporters[-1]['children'].append({'id': id, 'name': name})
 
     return reporters
+
+
+def get_reporter_id_by_nation(text, nation):
+    soup = BeautifulSoup(text, 'html.parser')
+    div = soup.find('div', id='ctl00_ContentView_r')
+    reporter_ids = []
+    for child in div.contents:
+        if not reporter_ids and child.name == 'table':
+            checkbox = child.find('input', type='checkbox')
+            nation_id = checkbox['id']
+            for sibling in checkbox.next_siblings:
+                if sibling.name == 'a' and sibling.string == nation:
+                    reporter_ids.append(nation_id)
+                    nodes = div.find('div', id=nation_id.replace('CheckBox', 'Nodes'))
+                    # nodes = child.next_sibling
+                    # while nodes and nodes['id'] != nation_id.replace('CheckBox', 'Nodes'):
+                    #     nodes = nodes.next_sibling
+                    if nodes:
+                        tds = nodes.find_all('td', class_='ctl00_ContentView_r_2')
+                        for td in tds:
+                            reporter_ids.append(td.input['id'])
+                    break
+
+    return reporter_ids
 
 
 def get_products(text):
@@ -70,6 +93,7 @@ if __name__ == '__main__':
         text = f.read()
         products = get_products(text)
         reporters = get_reporters(text)
+        print(get_reporter_id_by_nation(text, 'Australia'))
     with open('products.json', 'w', encoding='utf-8') as f:
         json.dump(products, f, indent=4)
     with open('reporters.json', 'w', encoding='utf-8') as f:
